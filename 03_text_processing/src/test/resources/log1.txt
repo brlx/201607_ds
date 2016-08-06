@@ -1,0 +1,233 @@
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 400 bad request: invalid resourceId
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS
+
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 401 Not authenticated
+Thu Aug 04 2016 12:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 12:47:23 GMT+0200 [HttpConnector] HTTP 400 bad request: invalid resourceId
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 12:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 13:47:23 GMT+0200 [HttpConnector] HTTP 400 bad request: invalid resourceId
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 401 Not authenticated
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 400 bad request: invalid resourceId
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 13:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:22 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 400 bad request: invalid resourceId
+Thu Aug 04 2016 16:47:30 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:48:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 400 bad request: invalid resourceId
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 400 bad request: invalid resourceId
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:2
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS2
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:2
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS2
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:2
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS2
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:2
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS2
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 03 2016 16:47:23 GMT+0200 [HttpConnector] HTTP 405 method not allowed: OPTIONS
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+Thu Aug 04 2016 16:49:02 GMT+0200 [Core] java.lang.NullPointerException at Core.java:22
+Thu Aug 04 2016 16:47:24 GMT+0200 [HttpConnector] HTTP 200 success
+

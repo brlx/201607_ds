@@ -1,0 +1,11 @@
+ok: .*HTTP\s200.*
+moved: .*HTTP\s301.*
+notModified: .*HTTP\s304.*
+badRequest: .*HTTP\s400.*
+unAuth: .*HTTP\s401.*
+forbidden: .*HTTP\s403.*
+notFound: .*HTTP\s404.*
+methodNotAllowed: .*HTTP\s405.*
+illegalStateExc: .*\Qjava.lang.IllegalStateException\E.*
+npe: .*\Qjava.lang.NullPointerException\E.*
+numberFormatExc: .*\Qjava.lang.NumberFormatException\E.*
